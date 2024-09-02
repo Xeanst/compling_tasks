@@ -10,6 +10,7 @@
   <tr>
     <th>Тема</th>
     <th>Содержание</th>
+    <th>Colab-блокнот</th>
   </tr>
   <tr>
     <td colspan="2">А. Семантический модуль</td>
@@ -24,6 +25,7 @@
   <li>Автоматический подбор параметров модели</li>
   <li>Оценка качества классификации</li>
 </ul>  </td>
+    <td>1_multiclass_emotion_detection_with_gaps<br/>1_multiclass_emotion_detection_no_gaps</td>
   </tr>
   <tr>
     <td>2. Многометочная классификация эмоций</td>
