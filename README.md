@@ -14,19 +14,20 @@
     <th>Colab-блокнот</th>
   </tr>
   <tr>
-    <td rowspan="2"><a href="https://github.com/Xeanst/NN_in_compling/tree/main/01_machine_learning">1. Классическое машинное обучение</a></td>
+    <td rowspan="2">1. Многоклассовая классификация эмоций</td>
     <td rowspan="2"><ul>
-  <li>Обучение с учителем и без учителя</li>
-  <li>Библиотеки для анализа данных: numpy, pandas</li>
+  <li>Распознавание эмоций в тексте</li>
+  <li>Загрузка и обработка данных</li>
   <li>Методы векторизации: мешок слов, TF-IDF</li>
-  <li>Методы машинного обучения: наивный байесовский классификатор, логистическая регрессия</li>
+  <li>Методы машинного обучения: наивный байесовский классификатор, логистическая регрессия, деревья решений, сетод случайного леса</li>
+  <li>Автоматический подбор параметров модели</li>
   <li>Оценка качества классификации</li>
 </ul>  </td>
-    <td><a href="https://teach-in.ru/lecture/2023-11-08-Studenikina">Лекция 1</a></td>
-    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1a_machine_learning_with_gaps.ipynb">1a_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1a_machine_learning_no_gaps.ipynb">1a_no_gaps</a></td>
+    <td>Лекция 1</td>
+    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1a_machine_learning_with_gaps.ipynb">1_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1a_machine_learning_no_gaps.ipynb">1_no_gaps</a></td>
   </tr>
   <tr>
-    <td><a href="https://teach-in.ru/lecture/2023-11-15-Studenikina">Лекция 2</a></td>
+    <td>Лекция 2</td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_with_gaps.ipynb">1b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_no_gaps.ipynb">1b_no_gaps</a></td>
   </tr>
 </table>
