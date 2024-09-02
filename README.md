@@ -24,7 +24,6 @@
   <li>Оценка качества классификации</li>
 </ul>  </td>
     <td>Лекция 1</td>
-    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1a_machine_learning_with_gaps.ipynb">1_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1a_machine_learning_no_gaps.ipynb">1_no_gaps</a></td>
   </tr>
   <tr>
     <td>Лекция 2</td>
