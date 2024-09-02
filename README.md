@@ -10,14 +10,15 @@
   <tr>
     <th>Тема</th>
     <th>Содержание</th>
+    <th>Видеозапись</th>
     <th>Colab-блокнот</th>
   </tr>
   <tr>
     <td colspan="3">А. Семантический модуль</td>
     </tr>
   <tr>
-    <td>1. Многоклассовая классификация эмоций</td>
-    <td><ul>
+    <td rowspan="2">1. Многоклассовая классификация эмоций</td>
+    <td rowspan="2"><ul>
   <li>Распознавание эмоций в тексте</li>
   <li>Загрузка и обработка данных</li>
   <li>Методы векторизации: мешок слов, TF-IDF</li>
@@ -25,7 +26,11 @@
   <li>Автоматический подбор параметров модели</li>
   <li>Оценка качества классификации</li>
 </ul>  </td>
-    <td>1_with_gaps<br/>1_no_gaps</td>
+    <td>Лекция 1</td>
+        <td rowspan="2">1_with_gaps<br/>1_no_gaps</td>
+    </tr>
+  <tr>
+    <td>Лекция 2</td>
   </tr>
   <tr>
     <td>2. Многометочная классификация эмоций</td>
@@ -50,10 +55,12 @@
   <li>Применение XLM-EMO к корпусу CEDR</li>
   <li>Сравнение моноязычных и мультиязычных моделей</li>
 </ul>  </td>
-       <td>3_rubert-tiny_with_gaps<br/>3_rubert-tiny_no_gaps</td>
+       <td>3_rubert_with_gaps<br/>3_rubert_no_gaps</td>
+        <td>Лекция 5</td>
        </tr>
       <tr>
-       <td>3_xlm_emo_with_gaps<br/>3_xlm_emo_no_gaps</td>
+       <td>3_xlm_with_gaps<br/>3_xlm_no_gaps</td>
+        <td>Лекция 6</td>
    </tr>
   <tr>
     <td colspan="2">А. Синтаксический модуль</td>
