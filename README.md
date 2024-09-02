@@ -10,7 +10,6 @@
   <tr>
     <th>Тема</th>
     <th>Содержание</th>
-    <th>Colab-блокнот</th>
   </tr>
   <tr>
     <td rowspan="2">1. Многоклассовая классификация эмоций</td>
@@ -22,7 +21,16 @@
   <li>Автоматический подбор параметров модели</li>
   <li>Оценка качества классификации</li>
 </ul>  </td>
-    <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_with_gaps.ipynb">1b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_no_gaps.ipynb">1b_no_gaps</a></td>
   </tr>
+   <tr>
+   </tr>
+  <tr>
+   </tr>
+  <tr>
+   </tr>
+  <tr>
+   </tr>
+  <tr>
+   </tr>
 </table>
 </html>
