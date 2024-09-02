@@ -50,6 +50,8 @@
   <li>Применение XLM-EMO к корпусу CEDR</li>
   <li>Сравнение моноязычных и мультиязычных моделей</li>
 </ul>  </td>
+       <td>3_rubert-tiny_with_gaps<br/>3_rubert-tiny_no_gaps</td>
+       <td>3_xlm_emo_with_gaps<br/>3_xlm_emo_no_gaps</td>
    </tr>
   <tr>
     <td colspan="2">А. Синтаксический модуль</td>
