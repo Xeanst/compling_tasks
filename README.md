@@ -23,6 +23,15 @@
 </ul>  </td>
   </tr>
    <tr>
+    <td rowspan="2">1. Многометочная классификация эмоций</td>
+      <td rowspan="2"><ul>
+  <li>Библиотека Datasets</li>
+  <li>CEDR: Corpus for Emotions Detecting in Russian-language text sentences</li>
+  <li>Baseline: словарь эмоциональной лексики</li>
+  <li>Метод опорных векторов</li>
+  <li>Ансамбль классификаторов</li>
+  <li>Языковая модель ELMo</li>
+  <li>Оценка качества классификации</li>
    </tr>
   <tr>
    </tr>
