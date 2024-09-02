@@ -33,8 +33,8 @@
     <td>Лекция 2</td>
   </tr>
   <tr>
-    <td>2. Многометочная классификация эмоций</td>
-      <td><ul>
+    <td rowspan="2">2. Многометочная классификация эмоций</td>
+      <td rowspan="2"><ul>
   <li>Библиотека Datasets</li>
   <li>CEDR: Corpus for Emotions Detecting in Russian-language text sentences</li>
   <li>Baseline: словарь эмоциональной лексики</li>
