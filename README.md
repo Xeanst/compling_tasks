@@ -25,8 +25,6 @@
 </ul>  </td>
     <td><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_with_gaps.ipynb">1b_with_gaps</a><br/><a href="https://github.com/Xeanst/NN_in_compling/blob/main/01_machine_learning/1b_machine_learning_no_gaps.ipynb">1b_no_gaps</a></td>
     <td>Лекция 1</td>
-  </tr>
-  <tr>
     <td>Лекция 2</td>
   </tr>
 </table>
