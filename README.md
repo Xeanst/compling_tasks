@@ -67,7 +67,7 @@
       <td>3_xlm_with_gaps<br/>3_xlm_no_gaps</td>
    </tr>
   <tr>
-    <td colspan="4">А. Синтаксический модуль</td>
+    <td colspan="4">Б. Синтаксический модуль</td>
     </tr>
   <tr>
   <td rowspan="2">4. Определение приемлемости предложений</td>
