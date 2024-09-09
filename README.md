@@ -17,7 +17,7 @@
     <td colspan="4">А. Семантический модуль</td>
     </tr>
   <tr>
-    <td rowspan="2">1. Многоклассовая классификация эмоций</td>
+    <td rowspan="2"><a href="https://github.com/Xeanst/compling_tasks/tree/main/1_multiclass_emotion_detection">1. Многоклассовая классификация эмоций</a></td>
     <td rowspan="2"><ul>
   <li>Распознавание эмоций в тексте</li>
   <li>Загрузка и обработка данных</li>
