@@ -31,7 +31,7 @@
     </tr>
   <tr>
     <td>Лекция 2</td>
-    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_with_gaps_2.ipynb">1_with_gaps_2</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_no_gaps.ipynb">1_no_gaps</a></td>
+    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_with_gaps_continued.ipynb">1_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_no_gaps.ipynb">1_no_gaps</a></td>
   </tr>
   <tr>
     <td rowspan="2">2. Многометочная классификация эмоций</td>
