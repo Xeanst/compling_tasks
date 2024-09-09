@@ -27,7 +27,7 @@
   <li>Оценка качества классификации</li>
 </ul>  </td>
     <td>Лекция 1</td>
-    <td >1_with_gaps<br/>1_no_gaps</td>
+    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_with_gaps.ipynb">1_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_no_gaps.ipynb">1_no_gaps</a></td>
     </tr>
   <tr>
     <td>Лекция 2</td>
