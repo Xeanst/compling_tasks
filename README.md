@@ -27,10 +27,11 @@
   <li>Оценка качества классификации</li>
 </ul>  </td>
     <td>Лекция 1</td>
-        <td rowspan="2">1_with_gaps<br/>1_no_gaps</td>
+    <td >1_with_gaps<br/>1_no_gaps</td>
     </tr>
   <tr>
     <td>Лекция 2</td>
+    <td >1_with_gaps_2<br/>1_no_gaps</td>
   </tr>
   <tr>
     <td rowspan="2">2. Многометочная классификация эмоций</td>
