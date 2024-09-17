@@ -34,7 +34,7 @@
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_with_gaps_continued.ipynb">1_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_no_gaps.ipynb">1_no_gaps</a></td>
   </tr>
   <tr>
-    <td rowspan="2">2. Многометочная классификация эмоций</td>
+    <td rowspan="2"><a href="https://github.com/Xeanst/compling_tasks/tree/main/2_multilabel_emotion_detection">2. Многометочная классификация эмоций</a></td>
       <td rowspan="2"><ul>
   <li>Библиотека Datasets</li>
   <li>CEDR: Corpus for Emotions Detecting in Russian-language text sentences</li>
