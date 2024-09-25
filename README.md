@@ -49,7 +49,7 @@
     </tr>
   <tr>
     <td>Лекция 4</td>
-    <td>2_with_gaps_continued<br/>2_no_gaps</td>
+    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_with_gaps_continued.ipynb">2_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_no_gaps.ipynb">2_no_gaps</a></td>
      </tr>
      <tr>
   <td rowspan="2">3. Дообучение энкодерных моделей для распознавания эмоций</td>
