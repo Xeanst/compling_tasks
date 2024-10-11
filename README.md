@@ -62,7 +62,7 @@
   <li>Сравнение моноязычных и мультиязычных моделей</li>
 </ul>  </td>
         <td>Лекция 5</td>
-       <td>3_rubert_with_gaps<br/>3_rubert_no_gaps</td>
+       <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/3_rubert-tiny_fine-tuning/3_rubert_tiny_fine_tuning_with_gaps.ipynb">3_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/3_rubert-tiny_fine-tuning/3_rubert_tiny_fine_tuning_no_gaps.ipynb">3_no_gaps</a></td></td>
        </tr>
       <tr>
       <td>Лекция 6</td>
