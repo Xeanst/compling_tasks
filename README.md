@@ -26,7 +26,7 @@
   <li>Автоматический подбор параметров модели</li>
   <li>Оценка качества классификации</li>
 </ul>  </td>
-    <td>Лекция 1</td>
+    <td><a href="https://teach-in.ru/lecture/2024-09-03-Studenikina">Лекция 1</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_with_gaps.ipynb">1_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_no_gaps.ipynb">1_no_gaps</a></td>
     </tr>
   <tr>
