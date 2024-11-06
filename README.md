@@ -30,7 +30,7 @@
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_with_gaps.ipynb">1_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_no_gaps.ipynb">1_no_gaps</a></td>
     </tr>
   <tr>
-    <td>Лекция 2</td>
+    <td><a href="https://teach-in.ru/lecture/2024-09-10-Studenikina">Лекция 2</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_with_gaps_continued.ipynb">1_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/1_multiclass_emotion_detection/1_multiclass_emotion_detection_no_gaps.ipynb">1_no_gaps</a></td>
   </tr>
   <tr>
@@ -44,11 +44,11 @@
   <li>Языковая модель ELMo</li>
   <li>Оценка качества классификации</li>
 </ul>  </td>
-    <td>Лекция 3</td>
+    <td><a href="https://teach-in.ru/lecture/2024-09-18-Studenikina">Лекция 3</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_with_gaps.ipynb">2_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_no_gaps.ipynb">2_no_gaps</a></td>
     </tr>
   <tr>
-    <td>Лекция 4</td>
+    <td><a href="https://teach-in.ru/lecture/2024-09-26-Studenikina">Лекция 4</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_with_gaps_continued.ipynb">2_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/2_multilabel_emotion_detection/2_multilabel_emotion_detection_no_gaps.ipynb">2_no_gaps</a></td>
      </tr>
      <tr>
@@ -61,7 +61,7 @@
   <li>Применение XLM-EMO к корпусу CEDR</li>
   <li>Сравнение моноязычных и мультиязычных моделей</li>
 </ul>  </td>
-        <td>Лекция 5</td>
+        <td><a href="https://teach-in.ru/lecture/2024-10-09-Studenikina">Лекция 5</a></td>
        <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/3_rubert-tiny_fine-tuning/3_rubert_tiny_fine_tuning_with_gaps.ipynb">3_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/3_rubert-tiny_fine-tuning/3_rubert_tiny_fine_tuning_no_gaps.ipynb">3_no_gaps</a></td></td>
        </tr>
       <tr>
