@@ -66,7 +66,7 @@
        </tr>
       <tr>
       <td>Лекция 6</td>
-      <td>3_xlm_with_gaps<br/>3_xlm_no_gaps</td>
+      <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/3_multilingual_emotion_detection/3_multilingual_emotion_detection_with_gaps.ipynb">3_xlm_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/3_multilingual_emotion_detection/3_multilingual_emotion_detection_no_gaps.ipynb">3_xlm_no_gaps</a></td>
    </tr>
   <tr>
     <td colspan="4">Б. Синтаксический модуль</td>
