@@ -85,7 +85,7 @@
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_with_gaps.ipynb">4_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_no_gaps.ipynb">4_no_gaps</a></td>
     </tr>
   <tr>
-    <td><Лекция 8</td>
+    <td>Лекция 8</td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_with_gaps_continued.ipynb">4_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_no_gaps.ipynb">4_no_gaps</a></td>
      </tr>
   <tr>
