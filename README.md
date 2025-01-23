@@ -89,7 +89,7 @@
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_with_gaps_continued.ipynb">4_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_no_gaps.ipynb">4_no_gaps</a></td>
      </tr>
   <tr>
-  <td rowspan="2">5. Топологический анализ данных для оценки приемлемости</td>
+  <td rowspan="2">><a href="https://github.com/Xeanst/compling_tasks/tree/main/5_topological_data_analysis">5. Топологический анализ данных для оценки приемлемости</a></td>
       <td rowspan="2"><ul>
   <li>Топологический анализ данных</li>
   <li>Компонента связности графа, простой цикл в графе</li>
