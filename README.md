@@ -72,7 +72,7 @@
     <td colspan="4">Б. Синтаксический модуль</td>
     </tr>
   <tr>
-  <td rowspan="2">4. Определение приемлемости предложений</td>
+  <td rowspan="2"><a href="https://github.com/Xeanst/compling_tasks/tree/main/4_corpus_of_linguistic_acceptability">4. Определение приемлемости предложений</a></td>
       <td rowspan="2"><ul>
   <li>Оценки приемлемости в лингвистике</li>
   <li>Корпус лингвистической приемлемости: источники данных, выбор явлений и разметка</li>
