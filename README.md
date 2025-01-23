@@ -102,7 +102,7 @@
     </tr>
   <tr>
     <td>Лекция 10</td>
-    <td><a href=https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_with_gaps_continued.ipynb">5_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_no_gaps.ipynb">5_no_gaps</a></td>
+    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_with_gaps_continued.ipynb">5_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_no_gaps.ipynb">5_no_gaps</a></td>
      </tr>
   <tr>
   <td> 6. Соотношение приемлемости и вероятности</td>
