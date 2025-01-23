@@ -97,13 +97,13 @@
   <li>Метод главных компонент</li>
   <li>Определение весов признаков</li>
   <li>Определение и графическое отображение значимости голов внимания</li>
-</ul>  </td>
-    <td>Лекция 9</td>
-        <td rowspan="2">5_with_gaps<br/>5_no_gaps</td>
+</ul>  <td>Лекция 9</td>
+    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_with_gaps.ipynb">5_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_no_gaps.ipynb">5_no_gaps</a></td>
     </tr>
   <tr>
     <td>Лекция 10</td>
-   </tr>
+    <td><a href=https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_with_gaps_continued.ipynb">5_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_no_gaps.ipynb">5_no_gaps</a></td>
+     </tr>
   <tr>
   <td> 6. Соотношение приемлемости и вероятности</td>
       <td><ul>
