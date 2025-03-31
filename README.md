@@ -112,7 +112,7 @@
   <li>Определение приемлемости без дообучения для CoLA</li>
 </ul>  </td>
     <td>Лекция 11</td>
-    <td>6_with_gaps<br/>6_no_gaps</td>
+    <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_with_gaps.ipynb">6_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_no_gaps.ipynb">6_no_gaps</a></td>
    </tr>
 </table>
 </html>
