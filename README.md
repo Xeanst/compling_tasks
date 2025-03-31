@@ -81,11 +81,11 @@
   <li>Дообучение BERT на CoLA с помощью Trainer</li>
   <li>Лингвистический анализ суждений о приемлемости</li>
 </ul>  </td>
-     <td>Лекция 7</td>
+     <td><a href="https://teach-in.ru/lecture/2025-01-17-Studenikina">Лекция 7</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_with_gaps.ipynb">4_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_no_gaps.ipynb">4_no_gaps</a></td>
     </tr>
   <tr>
-    <td>Лекция 8</td>
+    <td><a href="https://teach-in.ru/lecture/2025-01-21-Studenikina">Лекция 8</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_with_gaps_continued.ipynb">4_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/4_corpus_of_linguistic_acceptability/4_corpus_of_linguistic_acceptability_no_gaps.ipynb">4_no_gaps</a></td>
      </tr>
   <tr>
@@ -97,11 +97,11 @@
   <li>Метод главных компонент</li>
   <li>Определение весов признаков</li>
   <li>Определение и графическое отображение значимости голов внимания</li>
-</ul>  <td>Лекция 9</td>
+</ul>  <td><a href="https://teach-in.ru/lecture/2025-01-22-Studenikina">Лекция 9</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_with_gaps.ipynb">5_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_no_gaps.ipynb">5_no_gaps</a></td>
     </tr>
   <tr>
-    <td>Лекция 10</td>
+    <td><a href="https://teach-in.ru/lecture/2025-01-24-Studenikina-1">Лекция 10</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_with_gaps_continued.ipynb">5_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_no_gaps.ipynb">5_no_gaps</a></td>
      </tr>
   <tr>
@@ -111,7 +111,7 @@
   <li>Вероятность предложения для энкодерных моделей</li>
   <li>Определение приемлемости без дообучения для CoLA</li>
 </ul>  </td>
-    <td>Лекция 11</td>
+    <td><a href="https://teach-in.ru/lecture/2025-01-24-Studenikina-2">Лекция 11</a></td>
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_with_gaps.ipynb">6_with_gaps</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability/6_acceptability_and_probability_no_gaps.ipynb">6_no_gaps</a></td>
    </tr>
 </table>
