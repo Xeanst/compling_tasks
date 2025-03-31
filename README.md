@@ -105,7 +105,7 @@
     <td><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_with_gaps_continued.ipynb">5_with_gaps_continued</a><br/><a href="https://github.com/Xeanst/compling_tasks/blob/main/5_topological_data_analysis/5_topological_data_analysis_no_gaps.ipynb">5_no_gaps</a></td>
      </tr>
   <tr>
-  <td> 6. Соотношение приемлемости и вероятности</td>
+  <td rowspan="2"><a href="https://github.com/Xeanst/compling_tasks/blob/main/6_acceptability_and_probability">6. Соотношение приемлемости и вероятности</a></td>
       <td><ul>
   <li>Понятия "приемлемость" и "вероятность"</li>
   <li>Вероятность предложения для энкодерных моделей</li>
